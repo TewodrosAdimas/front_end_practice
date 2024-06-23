@@ -1,0 +1,22 @@
+.first_header{
+    background-color: burlywood;
+    text-align: center;
+    padding: 5px;
+    font-size: larger;
+    font-style: italic;
+}
+
+.second_header{
+    background-color: blueviolet;
+    padding: 15px 1px 10px 600px;
+}
+
+.reference{
+    background-color: palegreen;
+    padding: 15px 2px 4px 2px;
+}
+
+#image1{
+    height: 260pt;
+    position: fixed;
+}
