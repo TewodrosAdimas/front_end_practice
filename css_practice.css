@@ -20,3 +20,34 @@
     height: 260pt;
     position: fixed;
 }
+
+.practice2{
+    background-color: aqua;
+    padding: 70px 20px 20px 350px;
+}
+
+.list{
+    font-size: larger;
+    color: green;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+th {
+    background-color: #f2f2f2; 
+    border: 2px solid #ddd; 
+    padding: 10px;
+    text-align: left;
+}
+
+td {
+    border: 1px solid #ddd; 
+    padding: 10px;
+}
+tbody tr:hover {
+    background-color: #e1e1e1;
+}
